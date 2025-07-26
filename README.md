@@ -1,4 +1,4 @@
-# ✋ LenguajeCol — Reconocimiento de Lengua de Señas Colombiana 🇨🇴
+# ✋ LenguajeCol — Reconocimiento de Lengua de Señas Colombiana 
 
 Aplicación de visión artificial en Python que detecta letras del alfabeto colombiano y palabras clave mediante gestos de mano usando MediaPipe y OpenCV. Diseñado con una interfaz moderna e intuitiva.
 
