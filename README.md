@@ -37,4 +37,4 @@ https://github.com/user-attachments/assets/99b2684d-c4c5-4834-8357-b1f8da988cfe
 Proyecto desarrollado por estudiantes del SENA:
 
 👨‍💻 Octavio Gutiérrez – @tav1o__
-👨‍💻 Jolian [Apellido] – (Puedes agregar su usuario de GitHub si lo desea
+👨‍💻 Jolian Manuel – @Jholian10
