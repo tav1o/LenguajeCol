@@ -10,9 +10,6 @@ Aplicación de visión artificial en Python que detecta letras del alfabeto colo
 - Todo en una sola ventana interactiva
 - Preparado para ampliarse con más funciones como voz o exportación
 
-## 📸 Interfaz
-![Preview](screenshots/demo.png)
-
 
 ## 🎥 Demostración
 
